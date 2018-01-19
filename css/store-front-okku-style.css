@@ -729,15 +729,15 @@ table.v4acpcont {
 table.v4clp li span, table.v4clp td.oc li span {
     color: #333;
     font-weight: bold;
-    color: #fc1605;
-    padding: 10px 10px;
+    color: #1986b7;
+    padding: 10px 25px;
     display: inline-block;
     font-size: 15px;
 }
 table.v4clp li.v4f a:hover,
 table.v4clp td.oc li a:hover {
-    color: #fc1605;
-    padding-left: 44px;
+    color: #1986b7;
+    padding-left: 25px;
     transition: 0.4s all ease-in;
     -webkit-transition: 0.4s all ease-in;
     -moz-transition: 0.4s all ease-in;
