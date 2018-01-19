@@ -91,6 +91,9 @@ header .header-left {
     text-decoration: none;
     vertical-align: bottom;
 }
+.header-right a:link, .header-right .g-novisited a:visited {
+	color: #2b2b2b;
+}
 .header-right a:hover {
     color: #1986b7;
 }
