@@ -16,7 +16,15 @@ input, select, textarea, button {
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
 }
-
+#gh {
+    min-width: 320px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+table.tb_v4bc {
+    max-width: 1200px;
+    margin: 0 auto;
+}
 ul, li {
     list-style: none;
     margin: 0;
