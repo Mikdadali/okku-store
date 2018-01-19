@@ -46,7 +46,7 @@ ul, li {
 }
 .top_wrapper {
     position: relative;
-    padding-bottom: 36px;
+    padding-bottom: 45px;
     display: inline-block;
     width: 100%;
 }
@@ -98,9 +98,22 @@ header .header-left {
     color: #1986b7;
 }
 .main-content {
-    margin-top: 20px;
+    margin-top: -10px;
 }
-
+#glbfooter {
+    background: #FFF;
+    border-top: 1px solid #CCC;
+    margin: 10px auto 0 auto;
+    padding: 20px 0px 40px 0px;
+    max-width: 1200px;
+    text-align: center;
+}
+.stBadge {
+    margin-top: 17px;
+    min-width: inherit;
+    max-width: 1200px;
+    margin: 0 auto;
+}
 .v4thldr a {
     margin-bottom: 15px;
     display: inline-block;
