@@ -30,7 +30,10 @@ ul, li {
     margin: 0;
     padding: 0;
 }
-
+table.estorepower-content {
+    max-width: 1200px;
+    margin: 0 auto;
+}
 .fixedWidth {
     max-width: 1200px;
     width: 100%;
@@ -617,10 +620,9 @@ table.pgbc {
     position: relative;
     font-weight: 600;
     color: #fff;
-    border: 1px solid #005179;
+    border: 1px solid #1986b7;
     padding: 7px 22px;
-    background: #005179;
-    font-family: 'Ubuntu', sans-serif;
+    background: #1986b7;
 }
 .clear {
     clear: both;
