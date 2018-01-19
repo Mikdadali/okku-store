@@ -7,6 +7,15 @@ body {
     overflow-x: hidden;
     color: #2b2b2b;
 }
+.lcat .ttl {
+    font-weight: bold;
+    color: #00000c;
+    margin-bottom: 10px;
+    width: 100%;
+    background: #ccc;
+    display: inline-block;
+    padding: 10px;
+}
 .estorepower-content h1 {
     margin-top: -20px;
     font-size: 30px;
@@ -631,8 +640,9 @@ table.pgbc {
     font-weight: 600;
     color: #fff;
     border: 1px solid #1986b7;
-    padding: 7px 22px;
+    padding: 7px 10px;
     background: #1986b7;
+    text-align: left;
 }
 .clear {
     clear: both;
@@ -654,10 +664,9 @@ table.pgbc {
 .lev1 li a {
     text-decoration: none;
     color: #333;
-    padding: 10px 22px;
+    padding: 10px 10px;
     display: inline-block;
-    font-size: 14px;
-    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
 }
 
 .lev1 li a:before {
@@ -705,14 +714,12 @@ table.v4clp td.oc li {
     border-bottom: 1px solid #ebebeb;
 }
 
-table.v4clp li.v4f a,
-table.v4clp td.oc li a {
+table.v4clp li.v4f a, table.v4clp td.oc li a {
     text-decoration: none;
     color: #333;
-    padding: 10px 34px;
+    padding: 10px 10px;
     display: inline-block;
     font-size: 14px;
-    font-family: 'Lato', sans-serif;
 }
 
 table.v4acpcont {
