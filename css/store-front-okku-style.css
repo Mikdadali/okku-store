@@ -9,8 +9,8 @@ body {
 }
 .lcat .ttl {
     font-weight: bold;
-    color: #00000c;
-    margin-bottom: 10px;
+    color: #00000c !important;
+    margin-bottom: 0px;
     width: 100%;
     background: #f8f8f8;
     display: inline-block;
